@@ -73,7 +73,7 @@ You need to install bun
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Kanastra-Tech/frontend-challenge-boilerplate.git
+   git clone https://github.com/ismael-borges/frontend-challenge-boilerplate
    ```
 2. Install the packages
    ```sh
@@ -96,4 +96,4 @@ You need to install bun
 [issues-shield]: https://img.shields.io/github/issues/Kanastra-Tech/frontend-challenge-boilerplate.svg?style=for-the-badge
 [issues-url]: https://github.com/Kanastra-Tech/frontend-challenge-boilerplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/company/kanastra/
+[linkedin-url]: https://www.linkedin.com/in/ismaelborgessto/
